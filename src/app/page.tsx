@@ -22,7 +22,7 @@ export default function Home() {
           </li>
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
-          </li>
+          </li> <li className="text-red-600 text-4xl font-bold">TEST</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
